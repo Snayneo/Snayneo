@@ -9,7 +9,7 @@
 </p>
 
 <!-- КНОПКА "УЗНАТЬ БОЛЬШЕ" -->
-<a href="https://ВАШ_САЙТ_ИЛИ_DISCORD">
+<a href="https://snayneo.web.app">
   <img src="https://img.shields.io/badge/УЗНАТЬ%20БОЛЬШЕ-➜-ffffff?style=for-the-badge&labelColor=7000FF&color=4b0082"/>
 </a>
 
@@ -103,50 +103,6 @@
 <br>
 
 ---
-
-### 🧬 Команда Snayneo
-
-<!-- БЛОК КОМАНДЫ (5 ЧЕЛОВЕК) -->
-<!-- Замени 'Snayneo' на реальные ники GitHub -->
-<table align="center">
-  <tr>
-    <td align="center" width="130">
-      <a href="https://github.com/Snayneo">
-        <img src="https://github.com/Snayneo.png?size=100" width="80px" style="border-radius:50%"/>
-      </a>
-      <br><sub><b>Snayneo</b></sub><br>
-      <img src="https://img.shields.io/badge/Founder-7000FF?style=flat-square"/>
-    </td>
-    <td align="center" width="130">
-      <a href="#">
-        <img src="https://github.com/ghost.png?size=100" width="80px" style="border-radius:50%"/>
-      </a>
-      <br><sub><b>Member 2</b></sub><br>
-      <img src="https://img.shields.io/badge/Unity-black?style=flat-square"/>
-    </td>
-    <td align="center" width="130">
-      <a href="#">
-        <img src="https://github.com/ghost.png?size=100" width="80px" style="border-radius:50%"/>
-      </a>
-      <br><sub><b>Member 3</b></sub><br>
-      <img src="https://img.shields.io/badge/Design-pink?style=flat-square"/>
-    </td>
-    <td align="center" width="130">
-      <a href="#">
-        <img src="https://github.com/ghost.png?size=100" width="80px" style="border-radius:50%"/>
-      </a>
-      <br><sub><b>Member 4</b></sub><br>
-      <img src="https://img.shields.io/badge/Ccode-orange?style=flat-square"/>
-    </td>
-    <td align="center" width="130">
-      <a href="#">
-        <img src="https://github.com/ghost.png?size=100" width="80px" style="border-radius:50%"/>
-      </a>
-      <br><sub><b>Member 5</b></sub><br>
-      <img src="https://img.shields.io/badge/Support-green?style=flat-square"/>
-    </td>
-  </tr>
-</table>
 
 <br>
 <p>
