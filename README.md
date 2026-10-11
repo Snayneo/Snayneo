@@ -1,109 +1,104 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=09090b&height=220&section=header&text=Snayneo.&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Создаем%20игры,%20в%20которые%20играем%20сами&descSize=20&descColor=a1a1aa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1c1c1e&height=200&section=header&text=Snayneo&fontSize=64&fontColor=f5f5f7&fontAlignY=40&animation=fadeIn&desc=Indie%20game%20developer&descSize=16&descAlignY=62&descColor=98989d" width="100%"/>
 
-<p align="center" style="font-size: 16px; color: #71717a; margin-top: 15px;">
-  Snayneo — независимая студия разработки.<br>
-  Мы превращаем крутые идеи в реальность: от драйвовых 2D-аркад до хардкорных экшенов.
-</p>
-
-<p align="center">
-  <a href="https://t.me/Snayneo">
-    <img src="https://img.shields.io/badge/СТАТЬ%20ТЕСТЕРОМ-ffffff?style=for-the-badge&logo=telegram&logoColor=09090b&color=09090b" alt="Тестер"/>
-  </a>
-  &nbsp;
-  <a href="https://snayneo.web.app">
-    <img src="https://img.shields.io/badge/НАШ%20САЙТ-09090b?style=for-the-badge&color=e4e4e7&labelColor=e4e4e7" alt="Сайт"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1200&color=98989D&center=true&vCenter=true&width=520&height=36&lines=Игры+и+моды+для+Minecraft;Unity+%C2%B7+C%23+%C2%B7+2D+%26+3D;Делаю+то,+во+что+играю+сам" alt="typing"/>
 
 <br>
 
-<table align="center" style="border: none;">
-  <tr>
-    <td align="center" width="200">
-      <h1 style="color: #09090b; margin: 0;">5</h1>
-      <sub style="color: #71717a; font-size: 14px;">Человек в команде</sub>
-    </td>
-    <td align="center" width="200">
-      <h1 style="color: #09090b; margin: 0;">5+</h1>
-      <sub style="color: #71717a; font-size: 14px;">Создано проектов</sub>
-    </td>
-    <td align="center" width="200">
-      <h1 style="color: #09090b; margin: 0;">12+</h1>
-      <sub style="color: #71717a; font-size: 14px;">Ищем тестеров</sub>
-    </td>
-  </tr>
-</table>
+<a href="https://snayneo.web.app"><img src="https://img.shields.io/badge/Сайт-f5f5f7?style=for-the-badge&labelColor=f5f5f7&color=f5f5f7&logoColor=000000" height="34"/></a>
+&nbsp;
+<a href="https://t.me/Snayneo"><img src="https://img.shields.io/badge/Telegram-2c2c2e?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2c2c2e" height="34"/></a>
+&nbsp;
+<a href="https://www.youtube.com/@ZiiwplayDeveloper"><img src="https://img.shields.io/badge/YouTube-2c2c2e?style=for-the-badge&logo=youtube&logoColor=white&labelColor=2c2c2e" height="34"/></a>
 
 <br><br>
 
----
-
-### 🎮 Наши Проекты
-<p style="color: #71717a;">Игры, которые мы выпустили или готовим к релизу в ближайшее время.</p>
-
-<br>
-
-<a href="https://www.rustore.ru/catalog/app/com.rabbithole.app">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=121214&height=100&text=Rabbit%20Hole&fontSize=35&fontColor=ffffff&stroke=27272a&strokeWidth=2&desc=Увлекательная%202D%20аркада%20с%20уникальным%20сюжетом.&descSize=14&descAlignY=70&descColor=a1a1aa" width="100%"/>
-</a>
-<p align="center">
-  <img src="https://img.shields.io/badge/Ccode-09090b?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/2D_Аркада-3b82f6?style=flat-square"/>
-</p>
-
-<br>
-
-<a href="https://www.rustore.ru/catalog/app/com.airplane2d.app">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=121214&height=100&text=Airplane%202D&fontSize=35&fontColor=ffffff&stroke=27272a&strokeWidth=2&desc=Затягивающий%20симулятор%20полетов.%20Более%201000%20скачиваний!&descSize=14&descAlignY=70&descColor=a1a1aa" width="100%"/>
-</a>
-<p align="center">
-  <img src="https://img.shields.io/badge/Ccode-09090b?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Симулятор-3b82f6?style=flat-square"/>
-</p>
-
-<br>
-
-<a href="https://t.me/Snayneo">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=121214&height=100&text=Chaos%20Survival&fontSize=35&fontColor=ffffff&stroke=27272a&strokeWidth=2&desc=Хардкорное%20выживание.%20Побег%20от%20глобальных%20бедствий.&descSize=14&descAlignY=70&descColor=a1a1aa" width="100%"/>
-</a>
-<p align="center">
-  <img src="https://img.shields.io/badge/В_разработке-a1a1aa?style=flat-square&color=27272a"/>
-  <img src="https://img.shields.io/badge/Unity_3D-09090b?style=flat-square&logo=unity&logoColor=white"/>
-</p>
-
-<br><br>
-
----
-
-### 📰 Последние Новости
-
-<table align="center" width="100%">
+<table>
   <tr>
-    <td width="50%" valign="top">
-      <b>🚀 Airplane 2D: 1000+ скачиваний!</b><br>
-      <sub style="color: #71717a;">Наша игра Airplane 2D успешно преодолела рубеж в 1000 загрузок. Спасибо за поддержку!</sub>
-    </td>
-    <td width="50%" valign="top">
-      <b>🌪️ Анонс Chaos Survival</b><br>
-      <sub style="color: #71717a;">Готовьтесь к побегу от глобальных бедствий. Вскоре стартует запись на альфа-тест.</sub>
-    </td>
+    <td align="center" width="200"><h2>3+</h2><sub>игры в RuStore</sub></td>
+    <td align="center" width="200"><h2>21K+</h2><sub>скачиваний модов</sub></td>
+    <td align="center" width="200"><h2>4+</h2><sub>года опыта</sub></td>
   </tr>
 </table>
-
-<br>
-
----
-
-<p align="center">
-  <a href="https://t.me/Snayneo"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@ZiiwplayDeveloper"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
-  <a href="https://github.com/Snayneo"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-</p>
-
-<p align="center" style="color: #a1a1aa; font-size: 12px;">
-  <i>Snayneo © 2022-2026. Делаем игры с душой и вниманием к деталям.</i>
-</p>
 
 </div>
+
+<br>
+
+## Игры
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://www.rustore.ru/catalog/app/com.Snayneo.ChaosSurvival">
+        <img src="https://snayneo.web.app/assets/chaos-survival.png" width="100%"/>
+      </a>
+      <h3>Chaos Survival</h3>
+      <sub>Выживание среди природных катастроф</sub><br><br>
+      <img src="https://img.shields.io/badge/Unity_3D-2c2c2e?style=flat-square&logo=unity&logoColor=white"/>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://www.rustore.ru/catalog/app/com.KnifeFlipArcade.Snayneo">
+        <img src="https://snayneo.web.app/assets/knife-flip.png" width="100%"/>
+      </a>
+      <h3>Knife Flip: Arcade</h3>
+      <sub>Аркада про флип ножей</sub><br><br>
+      <img src="https://img.shields.io/badge/Unity_2D-2c2c2e?style=flat-square&logo=unity&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Новинка-007aff?style=flat-square"/>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://www.rustore.ru/catalog/app/com.airplane2d.app">
+        <img src="https://snayneo.web.app/assets/airplane-2d.png" width="100%"/>
+      </a>
+      <h3>Airplane 2D</h3>
+      <sub>2D симулятор полётов · 3000+ загрузок</sub><br><br>
+      <img src="https://img.shields.io/badge/Unity_2D-2c2c2e?style=flat-square&logo=unity&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+## Моды Minecraft
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://snayneo.web.app/assets/corner-entity.png" width="100%"/>
+      <h3>Corner Entity</h3>
+      <sub>Хоррор-мод · 18,2 тыс. скачиваний</sub><br><br>
+      <img src="https://img.shields.io/badge/Fabric-2c2c2e?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Forge-2c2c2e?style=flat-square"/>
+      <img src="https://img.shields.io/badge/NeoForge-2c2c2e?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://snayneo.web.app/assets/entity-67.png" width="100%"/>
+      <h3>67 Entity</h3>
+      <sub>Хоррор-мод · 2 992 скачивания</sub><br><br>
+      <img src="https://img.shields.io/badge/Fabric-2c2c2e?style=flat-square"/>
+      <img src="https://img.shields.io/badge/NeoForge-2c2c2e?style=flat-square"/>
+    </td>
+  </tr>
+</table>
+
+## Стек
+
+<p>
+  <img src="https://img.shields.io/badge/Unity-2c2c2e?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-2c2c2e?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-2c2c2e?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-2c2c2e?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-2c2c2e?style=for-the-badge&logo=firebase&logoColor=white"/>
+</p>
+
+## GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Snayneo&show_icons=true&hide_border=true&bg_color=1c1c1e&title_color=f5f5f7&text_color=98989d&icon_color=0a84ff&border_radius=20" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Snayneo&hide_border=true&background=1c1c1e&ring=0a84ff&fire=0a84ff&currStreakLabel=f5f5f7&sideLabels=98989d&currStreakNum=f5f5f7&sideNums=f5f5f7&dates=6c6c70&border_radius=20" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1c1e,100:000000&height=100&section=footer" width="100%"/>
+</p>
+
+<p align="center"><sub>Snayneo © 2022–2026</sub></p>
