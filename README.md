@@ -2,15 +2,18 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1c1c1e&height=200&section=header&text=Snayneo&fontSize=64&fontColor=f5f5f7&fontAlignY=40&animation=fadeIn&desc=Indie%20game%20developer&descSize=16&descAlignY=62&descColor=98989d" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1200&color=98989D&center=true&vCenter=true&width=520&height=36&lines=Игры+и+моды+для+Minecraft;Unity+%C2%B7+C%23+%C2%B7+2D+%26+3D;Делаю+то,+во+что+играю+сам" alt="typing"/>
+<h3>Игры и моды для Minecraft</h3>
+<sub>Unity · C# · 2D и 3D · Делаю то, во что играю сам</sub>
 
 <br>
 
-<a href="https://snayneo.web.app"><img src="https://img.shields.io/badge/Сайт-f5f5f7?style=for-the-badge&labelColor=f5f5f7&color=f5f5f7&logoColor=000000" height="34"/></a>
+<a href="https://snayneo.web.app"><img src="https://img.shields.io/badge/Website-f5f5f7?style=for-the-badge&logo=googlechrome&logoColor=000000" height="34"/></a>
 &nbsp;
 <a href="https://t.me/Snayneo"><img src="https://img.shields.io/badge/Telegram-2c2c2e?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2c2c2e" height="34"/></a>
 &nbsp;
 <a href="https://www.youtube.com/@ZiiwplayDeveloper"><img src="https://img.shields.io/badge/YouTube-2c2c2e?style=for-the-badge&logo=youtube&logoColor=white&labelColor=2c2c2e" height="34"/></a>
+&nbsp;
+<a href="https://snayneo.itch.io"><img src="https://img.shields.io/badge/itch.io-fa5c5c?style=for-the-badge&logo=itchdotio&logoColor=white" height="34"/></a>
 
 <br><br>
 
@@ -112,13 +115,6 @@
   <img src="https://img.shields.io/badge/Java-2c2c2e?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-2c2c2e?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-2c2c2e?style=for-the-badge&logo=firebase&logoColor=white"/>
-</p>
-
-## GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Snayneo&show_icons=true&hide_border=true&bg_color=1c1c1e&title_color=f5f5f7&text_color=98989d&icon_color=0a84ff&border_radius=20" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Snayneo&hide_border=true&background=1c1c1e&ring=0a84ff&fire=0a84ff&currStreakLabel=f5f5f7&sideLabels=98989d&currStreakNum=f5f5f7&sideNums=f5f5f7&dates=6c6c70&border_radius=20" height="150"/>
 </p>
 
 <p align="center">
