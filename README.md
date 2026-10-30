@@ -80,6 +80,30 @@
   </tr>
 </table>
 
+## Ассеты
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Crayon Series</h3>
+      <sub>Рисованный стиль мелками, сгенерирован собственным кодом</sub><br><br>
+      Game Art Pack · Game Art Pack LITE · Icon Pack + UI kit · VFX Pack<br><br>
+      <img src="https://img.shields.io/badge/2D-2c2c2e?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Бесплатные_версии-007aff?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Basic Packs</h3>
+      <sub>Наборы для быстрого старта проекта</sub><br><br>
+      Knife Pack · Weapon Pack · Skin Pack · Obby Assets Pack 2D<br><br>
+      <img src="https://img.shields.io/badge/2D-2c2c2e?style=flat-square"/>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://snayneo.itch.io"><img src="https://img.shields.io/badge/Все_ассеты_на_itch.io-fa5c5c?style=for-the-badge&logo=itchdotio&logoColor=white" height="34"/></a>
+</p>
+
 ## Стек
 
 <p>
